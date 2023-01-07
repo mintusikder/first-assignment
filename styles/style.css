@@ -6,8 +6,8 @@
 .header{
     background-image: url("../images/banner/banner1.png");
     background-repeat: no-repeat;
-    height:100vh ;
-    background-size: cover;
+    /* height:100vh ; */
+    background-size: auto;
 }
 .header-section{
     text-align: right;
