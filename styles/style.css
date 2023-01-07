@@ -33,6 +33,24 @@
     border: 0;
     border-radius: 5px;
 }
-
+/* my-failures */
+.my-failures{
+    display: flex;
+    gap: 85px;
+    margin: 0px 200px;
+    padding: 130px 0px;
+    align-items: center;
+}
+.failures-header{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.failures-paragraph{
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
 
 
