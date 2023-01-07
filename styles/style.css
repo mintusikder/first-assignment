@@ -79,4 +79,34 @@
     font-weight: 500;
     margin-top: 15px;
 }
+/* Awlays keep style */
+.awlays-keep{
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),  url(../images/watch.png);
+    border-radius: 8px;
+    height:300px ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 25px 150px;
+    padding: 30px 0px;
+}
+.awlays-keep-title{
+    font-size: 40px;
+    font-weight: 700;
+    color: #FFFFFF;
+    padding: 0px 150px;
+    width: 40%;
+}
+.awlays-keep-button{
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+    background-color: #FFFFFF;
+    padding: 10px 20px;
+    margin: 30px 100px;
+    height: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+/* footer section  */
 
