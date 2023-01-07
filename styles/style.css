@@ -109,4 +109,44 @@
     cursor: pointer;
 }
 /* footer section  */
-
+.footer-section {
+    display: flex;
+    justify-content: space-around;
+    gap: 200px;
+    margin-top: 100px;
+    padding: 50px 250px 50px 150px;
+    text-align: left;
+    background-color: lightblue;
+  }
+  .footer-text {
+    font-size: 16px;
+    padding: 10px 0;
+  }
+  .footer-section > .footer > a {
+    text-decoration: none;
+  }
+  .footer-title {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+    padding: 10px 0;
+  }
+  .footer-section .email > input {
+    margin-bottom: 20px;
+    border: 0;
+    width: 100%;
+    border-radius: 5px;
+    padding: 18px 50px;
+  }
+  .subscribe-button {
+    height: 50px;
+    border-radius: 5px;
+    border: 0;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fa0505;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    margin: 20px 0px;
+    cursor: pointer;
+  }
